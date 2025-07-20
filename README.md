@@ -4,13 +4,10 @@
 <img src="https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png?itok=UypeFJn4"
 alt="GITHUB BANNER" style="float: right; width: 400px;" />
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/udaycodes004/count.svg" />
-</p>
+
 
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Projects<br><br>🌱 I’m currently learning MERN,Solidity,HardHat<br><br>👨‍💻 All of my projects are available at https://github.com/udaycodes004<br><br>💬 Ask me about Java,Blockchain,Cryptography<br><br>📫 How to reach me udaynjr2004@gmail.com<br><br>⚡ Fun fact I am Poly-Lingual
+🔭 I’m currently working on Blockchain Projects<br><br>🌱 I’m currently learning MERN,Solidity,HardHat,AI<br><br>👨‍💻 All of my projects are available at https://github.com/udaycodes004<br><br>💬 Ask me about Java,Blockchain,Cryptography<br><br>📫 How to reach me udaynjr2004@gmail.com<br><br>⚡ Fun fact I am Poly-Lingual
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
