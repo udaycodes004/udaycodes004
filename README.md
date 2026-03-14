@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uday Akash E M</h1>
-<h3 align="center">A passionate Web3.0 Full-stack Developer from India</h3>
+<h3 align="center">A passionate AI/ML Developer from India</h3>
 <p align="center" alt="coding" />
 <img src="https://it.gwu.edu/sites/g/files/zaxdzs5486/files/styles/default/public/2023-10/github_logo.png?itok=UypeFJn4"
 alt="GITHUB BANNER" style="float: right; width: 400px;" />
@@ -7,7 +7,7 @@ alt="GITHUB BANNER" style="float: right; width: 400px;" />
 
 
 # 💫 About Me:
-🔭 I’m currently working on Blockchain Projects<br><br>🌱 I’m currently learning MERN,Solidity,HardHat,AI<br><br>👨‍💻 All of my projects are available at https://github.com/udaycodes004<br><br>💬 Ask me about Java,Blockchain,Cryptography<br><br>📫 How to reach me udaynjr2004@gmail.com<br><br>⚡ Fun fact I am Poly-Lingual
+🔭 I’m currently working on AI/ML/DL Projects<br><br>🌱 I’m currently learning MERN,RAG,LLMs<br><br>👨‍💻 All of my projects are available at https://github.com/udaycodes004<br><br>💬 Ask me about Java,Python,WEB 3.0,AI/ML<br><br>📫 How to reach me udaynjr2004@gmail.com<br><br>⚡ Fun fact I am Poly-Lingual
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
