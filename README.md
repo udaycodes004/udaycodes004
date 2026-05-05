@@ -22,8 +22,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/uday-akash-e-m-2b31a3261/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://instagram.com/uday._.njr1k"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-  <a href="https://www.leetcode.com/udaycodesleet"><img src="https://skillicons.dev/icons?i=leetcode" height="40"/></a>
-  <a href="mailto:udaynjr2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="https://www.leetcode.com/udaycodesleet">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" width="40"/>
+</a>  <a href="mailto:udaynjr2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 </p>
 
 ---
