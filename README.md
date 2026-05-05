@@ -29,43 +29,9 @@
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages
+## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,solidity" />
-</p>
-
-### 🌐 Web Development
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,tailwind,vite" />
-</p>
-
-### 🧠 AI / ML
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
-
-### ⛓️ Web3
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white"/>
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
-### 🛠️ Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=Canva&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,nodejs,tailwind,vite,solidity,mysql,sqlite,git,github,vscode,linux,tensorflow,pytorch&perline=20" />
 </p>
 ---
 
