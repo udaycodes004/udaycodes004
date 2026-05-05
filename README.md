@@ -30,7 +30,7 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,nodejs,tailwind,vite,solidity,mysql,git,github,linux,tensorflow,pytorch,sklearn,pyspark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,nodejs,tailwind,vite,solidity,mysql,git,github,linux,tensorflow,pytorch,sklearn,apache&perline=20" />
 </p>
 
 ## 📊 GitHub Stats
@@ -39,9 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=udaycodes004&theme=radical&hide_border=true" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaycodes004&theme=radical&hide_border=true&layout=compact" height="150"/>
-</p>
+
 
 ---
 
