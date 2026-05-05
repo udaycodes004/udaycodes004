@@ -27,13 +27,11 @@
 
 ---
 
-## 💻 Tech Stack
 
 ## 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript,html,css,nodejs,tailwind,vite,solidity,mysql,sqlite,git,github,vscode,linux,tensorflow,pytorch&perline=20" />
 </p>
----
 
 ## 📊 GitHub Stats
 <p align="center">
